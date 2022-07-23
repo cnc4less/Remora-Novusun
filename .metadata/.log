@@ -1,0 +1,24 @@
+!SESSION 2022-07-23 13:50:11.638 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_AU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-07-23 13:50:24.589
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-07-23 13:50:24.646
+!MESSAGE Log4j initialized with config file D:\Local Repositories\Remora-Novusun\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-07-23 13:50:28.361
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-23 13:51:16.754
+!MESSAGE Indexed 'Remora-NVEM' (114 sources, 624 headers) in 19 sec: 34,199 declarations; 108,759 references; 4 unresolved inclusions; 30 syntax errors; 511 unresolved names (0.36%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-23 13:51:45.681
+!MESSAGE Indexed 'Remora-EC500' (123 sources, 660 headers) in 28.6 sec: 35,812 declarations; 117,368 references; 4 unresolved inclusions; 43 syntax errors; 744 unresolved names (0.48%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-07-23 13:52:26.924
+!MESSAGE Indexed 'Remora-NVEM' (114 sources, 625 headers) in 24.5 sec: 34,199 declarations; 108,760 references; 4 unresolved inclusions; 30 syntax errors; 511 unresolved names (0.36%)

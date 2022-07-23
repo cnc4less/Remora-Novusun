@@ -1,0 +1,7 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+pin.h:54:21:void Pin::set(bool)	16	static
+softPwm.cpp:5:1:SoftPWM::SoftPWM(volatile float&, std::string)	56	static
+softPwm.cpp:16:6:virtual void SoftPWM::update()	24	static
+softPwm.cpp:50:6:virtual void SoftPWM::slowUpdate()	16	static
+softPwm.h:11:7:SoftPWM::~SoftPWM()	16	static
+softPwm.h:11:7:virtual SoftPWM::~SoftPWM()	16	static

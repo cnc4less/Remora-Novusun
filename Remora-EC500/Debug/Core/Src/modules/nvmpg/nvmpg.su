@@ -1,0 +1,24 @@
+variantslot.hpp:33:16:ArduinoJson6101_110::VariantData* ArduinoJson6101_110::VariantSlot::data()	16	static
+variantslot.hpp:41:16:ArduinoJson6101_110::VariantSlot* ArduinoJson6101_110::VariantSlot::next()	16	static
+variantslot.hpp:81:15:const char* ArduinoJson6101_110::VariantSlot::key() const	16	static
+ConstRamStringAdapter.hpp:14:3:ArduinoJson6101_110::ConstRamStringAdapter::ConstRamStringAdapter(const char*)	16	static
+ConstRamStringAdapter.hpp:16:8:bool ArduinoJson6101_110::ConstRamStringAdapter::equals(const char*) const	24	static
+ConstRamStringAdapter.hpp:48:30:ArduinoJson6101_110::ConstRamStringAdapter ArduinoJson6101_110::adaptString(const char*)	24	static
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+VariantData.hpp:349:11:uint8_t ArduinoJson6101_110::VariantData::type() const	16	static
+VariantImpl.hpp:70:20:const char* ArduinoJson6101_110::VariantData::asString() const	16	static
+nvmpg.cpp:9:6:void createNVMPG()	80	static
+nvmpg.cpp:23:1:NVMPG::NVMPG(volatile mpgData_t&, volatile uint16_t&)	64	static
+nvmpg.cpp:110:6:virtual void NVMPG::update()	24	static
+nvmpg.cpp:146:6:virtual void NVMPG::slowUpdate()	16	static
+nvmpg.cpp:151:6:virtual void NVMPG::configure()	16	static
+nvmpg.cpp:157:6:virtual void NVMPG::handleInterrupt()	16	static
+VariantRef.hpp:116:3:ArduinoJson6101_110::VariantRefBase<TData>::VariantRefBase(TData*) [with TData = ArduinoJson6101_110::VariantData]	16	static
+CollectionImpl.hpp:116:21:ArduinoJson6101_110::VariantData* ArduinoJson6101_110::CollectionData::get(TAdaptedString) const [with TAdaptedString = ArduinoJson6101_110::ConstRamStringAdapter]	24	static
+CollectionImpl.hpp:92:21:ArduinoJson6101_110::VariantSlot* ArduinoJson6101_110::CollectionData::getSlot(TAdaptedString) const [with TAdaptedString = ArduinoJson6101_110::ConstRamStringAdapter]	24	static
+objectshortcuts.hpp:70:18:const TObject* ArduinoJson6101_110::ObjectShortcuts<TObject>::impl() const [with TObject = ArduinoJson6101_110::ObjectRef]	16	static
+VariantCasts.hpp:20:16:const TImpl* ArduinoJson6101_110::VariantCasts<TImpl>::impl() const [with TImpl = ArduinoJson6101_110::MemberProxy<const ArduinoJson6101_110::ObjectRef&, const char*>]	16	static
+variantas.hpp:76:1:typename ArduinoJson6101_110::enable_if<(ArduinoJson6101_110::is_same<T, const char*>::value || ArduinoJson6101_110::is_same<T, char*>::value), const char*>::type ArduinoJson6101_110::variantAs(const ArduinoJson6101_110::VariantData*) [with T = const char*]	16	static
+ObjectFunctions.hpp:26:21:ArduinoJson6101_110::VariantData* ArduinoJson6101_110::objectGet(const ArduinoJson6101_110::CollectionData*, TAdaptedString) [with TAdaptedString = ArduinoJson6101_110::ConstRamStringAdapter]	16	static
+nvmpg.h:18:7:NVMPG::~NVMPG()	16	static
+nvmpg.h:18:7:virtual NVMPG::~NVMPG()	16	static

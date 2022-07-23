@@ -1,0 +1,5 @@
+softPwm.cpp:50:6:virtual void SoftPWM::slowUpdate()	0	static
+softPwm.h:11:7:SoftPWM::~SoftPWM()	8	static
+softPwm.h:11:7:virtual SoftPWM::~SoftPWM()	8	static
+softPwm.cpp:16:6:virtual void SoftPWM::update()	16	static
+softPwm.cpp:5:1:SoftPWM::SoftPWM(volatile float&, std::string)	48	static

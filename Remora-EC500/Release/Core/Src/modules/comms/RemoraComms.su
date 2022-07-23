@@ -1,0 +1,6 @@
+RemoraComms.h:20:7:RemoraComms::~RemoraComms()	8	static
+RemoraComms.h:20:7:virtual RemoraComms::~RemoraComms()	8	static
+RemoraComms.cpp:13:6:virtual void RemoraComms::update()	8	static
+RemoraComms.cpp:4:1:RemoraComms::RemoraComms()	40	static
+RemoraComms.cpp:38:6:void RemoraComms::dataReceived()	0	static
+RemoraComms.cpp:44:6:bool RemoraComms::getStatus()	0	static

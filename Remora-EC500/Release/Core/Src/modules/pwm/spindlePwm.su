@@ -1,0 +1,9 @@
+spindlePwm.cpp:112:6:virtual void SpindlePWM::slowUpdate()	0	static
+spindlePwm.h:13:7:SpindlePWM::~SpindlePWM()	8	static
+spindlePwm.h:13:7:virtual SpindlePWM::~SpindlePWM()	8	static
+spindlePwm.cpp:78:6:virtual void SpindlePWM::update()	16	static
+CollectionImpl.hpp:92:21:ArduinoJson6101_110::VariantSlot* ArduinoJson6101_110::CollectionData::getSlot(TAdaptedString) const [with TAdaptedString = ArduinoJson6101_110::ConstRamStringAdapter]	16	static
+spindlePwm.cpp:26:1:SpindlePWM::SpindlePWM(volatile float&)	88	static
+FloatTraits.hpp:29:12:static T ArduinoJson6101_110::FloatTraits<T, 8>::make_float(T, TExponent) [with TExponent = int; T = double]	56	static
+parseNumber.hpp:55:36:ArduinoJson6101_110::ParsedNumber<TFloat, TUInt> ArduinoJson6101_110::parseNumber(const char*) [with TFloat = double; TUInt = long long unsigned int]	40	static
+spindlePwm.cpp:9:6:void createSpindlePWM()	48	static
