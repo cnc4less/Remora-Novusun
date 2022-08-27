@@ -296,7 +296,7 @@
 	"Thread": "Servo",
 	"Type": "Digital Pin",
 		"Comment":			"AIN",
-		"Pin":				"PC_1",
+		"Pin":				"PD_1",
 		"Mode":				"Input",
 		"Data Bit":			27,
 		"Invert":			"True"
